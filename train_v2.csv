@@ -1,0 +1,3 @@
+sentenceID,sentence,domain,antecedent,consequent,antecedent_startid,antecedent_endid,consequent_startid,consequent_endid
+3S0001,"""""For someone who's so emotionally complicated, who could have given up many times if he was made of straw - he hasn't.""""",Health,if he was made of straw,who could have given up many times,83,105,48,81
+3S0002,"""""This would not be a substantial public health burden for developing countries if their health systems spontaneously became well-developed overnight and up to par with countries like Italy,"" he said.""",Health,if their health systems spontaneously became well-developed overnight and up to par with countries like Italy,This would not be a substantial public health burden for developing countries,80,188,2,78
